@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Shake It Up",
+    "slug": "shake-it-up",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#1B1038",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.shakeitup.game"
+    },
+    "android": {
+      "package": "com.shakeitup.game"
+    },
+    "plugins": [
+      [
+        "expo-sensors",
+        {
+          "motionPermission": "Shake It Up uses the motion sensors so you can move the ball by tilting your phone."
+        }
+      ],
+      "expo-status-bar"
+    ]
+  }
+}

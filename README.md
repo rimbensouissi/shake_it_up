@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shake It Up
 
 Tilt your phone to roll the ball into the basket. React Native + Expo + JavaScript.
@@ -41,3 +42,6 @@ src/screens/              Home, Game, Results, Leaderboard, Settings, HowToPlay
 ## Building for stores
 
 `app.json` has no icon or splash image yet. Add `icon`, and `ios`/`android` adaptive icon assets, then run `eas build`.
+=======
+# shake_it_up
+>>>>>>> a141641905ec9d94bc2ff1cda8479b169c21a420
